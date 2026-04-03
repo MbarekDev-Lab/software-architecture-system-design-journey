@@ -1,22 +1,28 @@
-# software-architecture-system-design-journey
-My learning journey through the Udemy course Software Architecture &amp; System Design  Practical Case Studies. Notes, diagrams, and code implementations.
-
-
 # Software Architecture & System Design Learning Journey
 
-This repository documents my progress through the Udemy course:
-**Software Architecture & System Design – Practical Case Studies**
+My learning journey through the Udemy course **Software Architecture & System Design - Practical Case Studies**.
 
-## What’s Inside
+This repository is a structured knowledge base for:
+
 - Lecture notes
 - System design diagrams
-- Case study implementations
-- Architecture patterns & cheat sheets
-
-## Tech Stack (as I progress)
-- TBD (will update as I build projects)
+- Case study breakdowns
+- Architecture patterns and interview references
 
 ## Goals
+
 - Strengthen system design fundamentals
 - Build real-world architecture case studies
-- Create a reference repo for future interviews & projects
+- Keep clean notes for future interview and project reference
+
+## Notes Index
+
+### Image Sharing Platform
+
+1. [Highly Scalable Image Sharing Platform - Part 1](notes/highly-scalable-image-sharing-platform-part-1.md)
+
+## Repository Plan
+
+- Add notes for each lecture in dedicated Markdown files
+- Add diagrams for important architectures
+- Add summaries, tradeoffs, and bottlenecks for quick revision
