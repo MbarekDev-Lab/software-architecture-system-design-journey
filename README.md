@@ -17,6 +17,10 @@ This repository is a structured knowledge base for:
 
 ## Notes Index
 
+### Foundations
+
+1. [Software Architecture and System Design Basics](notes/software-architecture-and-system-design-basics.md)
+
 ### Image Sharing Platform
 
 1. [Highly Scalable Image Sharing Platform - Part 1](notes/highly-scalable-image-sharing-platform-part-1.md)
