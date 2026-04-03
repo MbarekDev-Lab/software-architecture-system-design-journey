@@ -20,6 +20,7 @@ This repository is a structured knowledge base for:
 ### Foundations
 
 1. [Software Architecture and System Design Basics](notes/software-architecture-and-system-design-basics.md)
+2. [System Design Case Study Mindset](notes/system-design-case-study-mindset.md)
 
 ### Image Sharing Platform
 
